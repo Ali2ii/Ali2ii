@@ -17,8 +17,8 @@
 
 I am a **Full Stack Developer** with a keen eye for **UI/UX Design**. I don't just write code; I build complete digital experiences. My workflow bridges the gap between powerful backend logic and intuitive frontend interfaces.
 
-- 🎨 **Design:** Creating user-centric designs and prototypes before a single line of code is written.
-- ⚙️ **Backend:** robust APIs and server-side logic using **PHP (Laravel)** and **Python**.
+- 🎨 **Design:** Creating user-centric designs and prototypes.
+- ⚙️ **Backend:** Robust APIs and server-side logic using **PHP (Laravel)** and **Python**.
 - ⚛️ **Frontend:** Responsive web apps with **React** and mobile apps with **React Native**.
 - 🐧 **System:** I am a **Linux** enthusiast who loves optimizing development environments.
 
@@ -34,7 +34,6 @@ I am a **Full Stack Developer** with a keen eye for **UI/UX Design**. I don't ju
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   
   <br /> <br />
 
@@ -42,17 +41,8 @@ I am a **Full Stack Developer** with a keen eye for **UI/UX Design**. I don't ju
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-  <br /> <br />
-
-  <h3>🎨 UI/UX Design</h3>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
   <br /> <br />
 
@@ -66,14 +56,10 @@ I am a **Full Stack Developer** with a keen eye for **UI/UX Design**. I don't ju
 
 ---
 
-### 📊 GitHub Activity
+### ⚡ Coding Status
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali2ii&theme=radical&hide_border=true" alt="Ali2ii" />
-  
-  <br />
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali2ii&theme=react-dark&hide_border=true" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="200" alt="Coding Animation" />
 </div>
 
 ---
