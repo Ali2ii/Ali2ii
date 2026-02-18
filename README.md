@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Full%20Stack%20Engineer%20%26%20Designer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Full%20Stack%20Engineer&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header" />
   
   <h1 align="center">Hi, I'm Ali 👋</h1>
   <h3 align="center">PHP/Laravel | Python | React/Native | UI/UX Design</h3>
@@ -69,8 +69,11 @@ I am a **Full Stack Developer** with a keen eye for **UI/UX Design**. I don't ju
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali2ii&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Ali's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali2ii&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali2ii&theme=radical&hide_border=true" alt="Ali2ii" />
+  
+  <br />
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali2ii&theme=react-dark&hide_border=true" width="100%" />
 </div>
 
 ---
