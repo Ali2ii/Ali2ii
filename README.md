@@ -70,7 +70,7 @@ I am a **Full Stack Developer** with a keen eye for **UI/UX Design**. I don't ju
   <a href="mailto:Aliasgharyaqubi65@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/AliAsgharyaqubi">
+  <a href="https://www.linkedin.com/in/aliasghar-yaqubi-b02967375">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://t.me/Ali4iiii">
