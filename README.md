@@ -59,12 +59,13 @@ I am a **Full Stack Developer** with a keen eye for **UI/UX Design**. I don't ju
 ### ⚡ GitHub Analytics
 
 <div align="center">
-  <!-- آمار کلی متصل به اکانت Ali2ii شامل فعالیت‌های خصوصی و عمومی -->
-  <img src="https://github-readme-stats.shion.dev/api?username=Ali2ii&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="Ali's GitHub Stats" height="190" />
+  <!-- کارت ردیاب کامیت‌ها و فعالیت‌های متوالی (شامل خصوصی و عمومی) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali2ii&theme=transparent&hide_border=true" alt="GitHub Streak Stats" height="190" />
   &nbsp;&nbsp;
-  <!-- بیشترین زبان‌های استفاده شده در پروژه‌های Ali2ii -->
+  <!-- بیشترین زبان‌های استفاده شده -->
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ali2ii&layout=compact&theme=transparent&hide_border=true&count_private=true" alt="Top Languages" height="190" />
 </div>
+
 
 <br />
 
