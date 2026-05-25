@@ -56,10 +56,21 @@ I am a **Full Stack Developer** with a keen eye for **UI/UX Design**. I don't ju
 
 ---
 
-### ⚡ Coding Status
+### ⚡ GitHub Analytics
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="200" alt="Coding Animation" />
+  <!-- آمار کلی شامل کامیت‌های خصوصی -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali2ii&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="Ali's GitHub Stats" height="190" />
+  &nbsp;&nbsp;
+  <!-- بیشترین زبان‌های استفاده شده -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali2ii&layout=compact&theme=transparent&hide_border=true&count_private=true" alt="Top Languages" height="190" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- انیمیشن کد زدن شما -->
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="160" alt="Coding Animation" />
 </div>
 
 ---
