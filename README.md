@@ -59,11 +59,11 @@ I am a **Full Stack Developer** with a keen eye for **UI/UX Design**. I don't ju
 ### ⚡ GitHub Analytics
 
 <div align="center">
-  <!-- آمار کلی شامل کامیت‌های خصوصی -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali2ii&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="Ali's GitHub Stats" height="190" />
+  <!-- آمار کلی شامل کامیت‌های خصوصی با سرور جایگزین -->
+  <img src="https://github-readme-stats.shion.dev/api?username=Ali2ii&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" alt="Ali's GitHub Stats" height="190" />
   &nbsp;&nbsp;
-  <!-- بیشترین زبان‌های استفاده شده -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali2ii&layout=compact&theme=transparent&hide_border=true&count_private=true" alt="Top Languages" height="190" />
+  <!-- بیشترین زبان‌های استفاده شده با سرور جایگزین -->
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ali2ii&layout=compact&theme=transparent&hide_border=true&count_private=true" alt="Top Languages" height="190" />
 </div>
 
 <br />
